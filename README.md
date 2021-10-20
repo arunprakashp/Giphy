@@ -16,4 +16,4 @@ Scenarios covered:
 3. Get in to the root folder in terminal and install Cypress using this command - 'npm install cypress'
 4. Avoid any warning message while installationa but make sure there are no errors, which can be verified using version check command - 'npm cypress -v' - this will show the installed Cypress version.
 5. To run the test cases, type 'npx cypress open' command which will open the Cypress GIU to display the list of test cases.
-6. Click on the two tests written one each for Search Module and Trending Section Module and clicking on which will run both the tests cases in a new browser
+6. Execute the two tests written one each for Search Module and Trending Section Module and clicking on which will run both the tests cases in a new browser
