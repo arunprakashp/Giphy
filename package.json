@@ -1,0 +1,14 @@
+{
+  "name": "Giphy",
+  "version": "1.0.0",
+  "description": "Automate Giphy using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
